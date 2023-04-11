@@ -1,2 +1,4 @@
 # HEART_DISEASE_PREDICTION
 This is a heart disease prediction model created using logistic regression. The model uses a dataset of various health factors to predict the likelihood of a person having heart disease. 
+![heart disease](https://user-images.githubusercontent.com/112997690/231184481-66e1d28f-40af-429d-88c4-f76f1c261b64.png)
+This prediction model created using logistic regression,is built with the help of a YouTube tutorial. The model uses a dataset of various health factors, such as age, gender, blood pressure, and cholesterol levels, to predict the likelihood of a person having heart disease. The logistic regression algorithm was trained on the dataset and used to create a predictive model that can be used to identify patients who are at high risk for heart disease. The project showcases the process of data cleaning, data preprocessing, and model building using Python libraries such as pandas and scikit-learn.
